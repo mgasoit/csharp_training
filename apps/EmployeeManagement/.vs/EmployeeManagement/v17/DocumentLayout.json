@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myung\\Documents\\202405\\C#\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89CE5BB-D559-4539-947D-460BF4FC830E}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\myung\\documents\\202405\\c#\\employeemanagement\\employeemanagement\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89CE5BB-D559-4539-947D-460BF4FC830E}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89CE5BB-D559-4539-947D-460BF4FC830E}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\myung\\documents\\202405\\c#\\employeemanagement\\employeemanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89CE5BB-D559-4539-947D-460BF4FC830E}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\myung\\Documents\\202405\\C#\\EmployeeManagement\\EmployeeManagement\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\myung\\Documents\\202405\\C#\\EmployeeManagement\\EmployeeManagement\\MainForm.Designer.cs",
+              "RelativeToolTip": "EmployeeManagement\\MainForm.Designer.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAowCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:36:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\myung\\Documents\\202405\\C#\\EmployeeManagement\\EmployeeManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\MainForm.cs",
+              "ToolTip": "C:\\Users\\myung\\Documents\\202405\\C#\\EmployeeManagement\\EmployeeManagement\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagement\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T00:29:51.342Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
