@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Hello World Page";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>ID</td>
+            <td>ID</td>
+            <td>ID</td>
+            <td>ID</td>
+        </tr>   
+    </thead>
+    <tbody>        
+        @foreach (var b in ViewData["books"] as IList<Book>)
+        {
+            <tr>
+                <td>@b.Id</td>
+                <td>@b.Title</td>
+                <td>@b.Author</td>
+                <td>@b.ISBN</td>
+            </tr>
+        }        
+    </tbody>
+</table>
